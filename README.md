@@ -1,4 +1,4 @@
-Hi 👋 My name is Abu Umair Jihan 
+Hi 👋 My name is Jihan 
 ================================  
 
 Software Engineer iOS 
