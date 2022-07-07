@@ -8,7 +8,7 @@ I am an iOS Engineer with industry experience building iOS applications. I speci
 
 * 🌍  I'm based in Stockholm, Sweden 
 * ✉️  You can contact me at [umairjihan@gmail.com](mailto:umairjihan@gmail.com) 
-* 🚀  I'm currently working on [Syncc](http://syncc.app) 
+* 🚀  I'm currently working on [Accedo](http://accedo.tv) 
 * 🤝  I'm open to collaborating on projects as a developer.
 
 <a href="https://www.twitter.com/umairjihan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/umairjihan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/umairjihan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/umairjihan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
