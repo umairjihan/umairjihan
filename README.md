@@ -8,7 +8,7 @@ I am an iOS Engineer with industry experience building iOS applications. I speci
 
 * 🌍  I'm based in Stockholm, Sweden 
 * ✉️  You can contact me at [umairjihan@gmail.com](mailto:umairjihan@gmail.com) 
-* 🚀  I'm currently working on [Accedo](http://accedo.tv) 
+* 🚀  I'm currently working at [Accedo](http://accedo.tv) 
 * 🤝  I'm open to collaborating on projects as a developer.
 
 <!--
