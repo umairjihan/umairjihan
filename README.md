@@ -1,7 +1,7 @@
 Hi 👋 My name is Jihan 
 ================================  
 
-Software Engineer iOS 
+Software Engineer  Platforms
 ---------------------  
 
 I am an iOS Engineer with industry experience building iOS applications. I specialize in Swift and have professional experience working with Objective-C. I also have experience working in Android Development.  
