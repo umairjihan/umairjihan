@@ -8,7 +8,6 @@ I’m a Stockholm-based Senior iOS Engineer with over 10 years of experience dev
 
 * 🌍  I'm based in Stockholm, Sweden 
 * ✉️  You can contact me at [umairjihan@gmail.com](mailto:umairjihan@gmail.com) 
-* 🚀  I'm currently working at [Accedo](http://accedo.tv) 
 * 🤝  I'm open to collaborating on projects as a developer.
 
 <!--
