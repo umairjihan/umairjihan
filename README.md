@@ -4,7 +4,7 @@ Hi 👋 My name is Jihan
 Software Engineer  Platforms
 ---------------------  
 
-I’m a Stockholm-based Senior iOS Engineer with over 10 years of experience developing scalable mobile apps. Currently leading iOS development at Accedo, I specialize in Swift, SwiftUI, MVVM, and Clean Architecture. I enjoy mentoring teams, optimizing developer workflows, and crafting intuitive user experiences. Always excited to tackle challenging projects and keep growing professionally. 
+I’m a Stockholm-based Senior iOS Engineer with over 10 years of experience developing scalable mobile apps. Currently leading iOS development at Lifesum, I specialize in Swift, SwiftUI, MVVM, and Clean Architecture. I enjoy mentoring teams, optimizing developer workflows, and crafting intuitive user experiences. Always excited to tackle challenging projects and keep growing professionally. 
 
 * 🌍  I'm based in Stockholm, Sweden 
 * ✉️  You can contact me at [umairjihan@gmail.com](mailto:umairjihan@gmail.com) 
